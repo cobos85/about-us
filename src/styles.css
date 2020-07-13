@@ -447,6 +447,12 @@ img.fr-dii.fr-fir {
   font-size: 1.2rem;
   letter-spacing: 2px;
 }
+.btn-gradient-teal {
+  color: #fff;
+  background-image: linear-gradient(to right, #2ca19e 0%, #346EA1 100%);
+  background-repeat: repeat-x;
+  border: 0px !important;
+}
 .btn svg {
   margin: 0 10px 0 0;
   opacity: 0.8;
