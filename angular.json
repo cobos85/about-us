@@ -27,7 +27,26 @@
               "src/styles.css",
               "node_modules/font-awesome/css/font-awesome.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "src/assets/js/143134.js",
+              "src/assets/js/2409858399233474.js",
+              "src/assets/js/all.js",
+              "src/assets/js/analytics.js",
+              "src/assets/js/aos.js",
+              "src/assets/js/bootstrap.js",
+              "src/assets/js/fbevents.js",
+              "src/assets/js/gtm.js",
+              "src/assets/js/icap.js",
+              "src/assets/js/identity.js",
+              "src/assets/js/init.js",
+              "src/assets/js/jquery-3.js",
+              "src/assets/js/particles.js",
+              "src/assets/js/poll.js",
+              "src/assets/js/popper.js",
+              "src/assets/js/swap.js"
+            ]
           },
           "configurations": {
             "production": {
